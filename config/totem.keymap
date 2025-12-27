@@ -56,6 +56,11 @@
             bindings = <&kp DOWN>;
             key-positions = <12 22>;
         };
+
+        settings {
+            bindings = <&mo 2>;
+            key-positions = <34 33>;
+        };
     };
 
     behaviors {
